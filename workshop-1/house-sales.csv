@@ -1,0 +1,11 @@
+Type of house,Colour,Area (sqft),Number of doors,Price
+apartment,White,1100,1,"$4,000.00"
+duplex,Red,502,2,"$5,000.00"
+apartment,Blue,1225,2,"$7,000.00"
+bungalow,Black,1500,4,"$22,000.00"
+farmhouse,White,2020,3,"$3,500.00"
+apartment,Green,1115,1,"$4,500.00"
+duplex,Blue,550,2,"$7,500.00"
+duplex,Blue,530,2,"$7,000.00"
+apartment,White,1200,1,"$6,250.00"
+farmhouse,White,2504,4,"$9,700.00"
